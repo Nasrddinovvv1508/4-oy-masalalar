@@ -238,3 +238,15 @@
 // }
 
 // console.log(length);
+
+
+
+        // 23-MASALA
+// let arrSize = 12;
+// let arr = []
+
+// for (let i = 1; i <= arrSize; i++) {
+//     arr.push(i)
+// }
+
+// console.log(arr);
