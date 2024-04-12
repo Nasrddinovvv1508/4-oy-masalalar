@@ -66,3 +66,15 @@
 //         console.log(`${i} * ${j} = ${i * j}`);
 //     }
 // }
+
+
+        // 7-MASALA
+function sumArr(arg) {
+    let sum = 0;
+    for (const iterator of arg) {
+        sum += iterator
+    }
+    console.log(sum);
+}
+
+sumArr([1, 7, 4, 2, 8])
