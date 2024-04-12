@@ -69,12 +69,20 @@
 
 
         // 7-MASALA
-function sumArr(arg) {
-    let sum = 0;
-    for (const iterator of arg) {
-        sum += iterator
-    }
-    console.log(sum);
-}
+// function sumArr(arg) {
+//     let sum = 0;
+//     for (const iterator of arg) {
+//         sum += iterator
+//     }
+//     return sum
+// }
 
-sumArr([1, 7, 4, 2, 8])
+// sumArr([1, 7, 4, 2, 8])
+
+
+        // 8-MASALA
+// const reverseArr = function (arr) {
+//     return arr.reverse()
+// }
+
+// console.log(reverseArr([1,2,3,4,5]));
