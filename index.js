@@ -148,3 +148,12 @@
 // }
 
 // console.log(countVowels());
+
+
+
+        // 14-MASALA
+// function firstEL(arr) {
+//     return arr[0]
+// }
+
+// console.log(firstEL(['asd', 1, 3, 4, true]));
