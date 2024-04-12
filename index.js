@@ -91,3 +91,9 @@
         // 9-MASALA
 // let arr = [2, 11, 4, 3];
 // console.log(arr.sort((a, b) => a - b));
+
+
+        // 10-MASALA
+// let arr = [1, -1, -2, -3, 4, 10]
+// let newArr = arr.filter(item => item > 0)
+// console.log(newArr);
