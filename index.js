@@ -58,3 +58,11 @@
 //     console.log(i);
 //     i+=2;
 // }
+
+
+        // 6-MASALA
+// for (let i = 2; i <= 9; i++) {
+//     for (let j = 1; j <= 10; j++) {
+//         console.log(`${i} * ${j} = ${i * j}`);
+//     }
+// }
