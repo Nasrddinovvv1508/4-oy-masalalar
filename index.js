@@ -166,3 +166,10 @@
 // })
 
 // console.log(newArr);
+
+
+        // 17-MASALA
+// let arr = [1, 2, 3, 4, 5];
+// let res = arr.includes(7)
+
+// console.log(res); // false
