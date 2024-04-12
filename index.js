@@ -173,3 +173,12 @@
 // let res = arr.includes(7)
 
 // console.log(res); // false
+
+
+        // 18-MASALA
+// let arr = [`hello`, 2, 3, true, undefined]
+// let newArr = arr.map((v) => {
+//     return `${v}`;
+// })
+
+// console.log(newArr);
