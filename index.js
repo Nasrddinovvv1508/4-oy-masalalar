@@ -202,3 +202,15 @@
 // } catch (error) {
 //     console.log(error);
 // }
+
+
+        // 20-MASALA
+// let n = 10000;
+
+// let obj = {
+//     soliqlar: n * (50/100),
+//     sugurta: n * (30/100),
+//     jamgarma: n * (20/100),
+// }
+
+// console.log(obj);
