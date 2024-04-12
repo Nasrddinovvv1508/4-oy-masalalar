@@ -126,3 +126,25 @@
 // } else {
 //     console.log(false);
 // }
+
+
+        // 13-MASALA
+// let str = 'hello'
+
+// function countVowels() {
+//     let vowelArr = [`a`, `o`, `u`, `i`, `e`, `o'`];
+//     let counter = 0;
+
+//     for (let i = 0; i <= str.length; i++) {
+//         for (let j = 0; j < vowelArr.length; j++) {
+//             if (str[i] == vowelArr[j]) {
+//                 counter++
+//                 console.log(str[i], vowelArr[j]);
+//             }
+//         }
+//     }
+
+//     return counter
+// }
+
+// console.log(countVowels());
