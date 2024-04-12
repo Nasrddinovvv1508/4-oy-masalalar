@@ -226,3 +226,15 @@
 // let point = footballPoints.wins * 3 + footballPoints.draws
 
 // console.log(point);
+
+
+
+        // 22-MASALA
+// let str = `Hello World`;
+// let length = 0
+
+// for (const iterator of str) {
+//     length++;
+// }
+
+// console.log(length);
