@@ -182,3 +182,23 @@
 // })
 
 // console.log(newArr);
+
+
+        // 19-MASALA
+// let arr = [`1`, `2`, `3`, `a`, `d`, `undefined`];
+
+// try {
+//     let numArr = []
+//     for (const iterator of arr) {
+//         let iter =  parseFloat(iterator);
+//         if (!isNaN(iter)) {
+//             numArr.push(iter)
+//         } else {
+//             throw new TypeError(`Cannot convert to Number`)
+//         }
+//     }
+//     console.log(numArr);
+
+// } catch (error) {
+//     console.log(error);
+// }
