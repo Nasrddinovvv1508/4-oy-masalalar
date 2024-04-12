@@ -214,3 +214,15 @@
 // }
 
 // console.log(obj);
+
+
+        // 21-MASALA
+// let footballPoints = {
+//     wins: 3,
+//     draws: 4,
+//     losses: 2,
+// }
+
+// let point = footballPoints.wins * 3 + footballPoints.draws
+
+// console.log(point);
