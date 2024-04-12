@@ -157,3 +157,12 @@
 // }
 
 // console.log(firstEL(['asd', 1, 3, 4, true]));
+
+
+        // 16-MASALA
+// let arr = [1, 2, 3, 4, 5];
+// let newArr = arr.map((v) => {
+//     return v + 1
+// })
+
+// console.log(newArr);
