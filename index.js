@@ -116,3 +116,13 @@
 // }
 
 // removeSpace()
+
+
+        // 12-MASALA
+// let n = 120;
+
+// if (n % 10 == 0) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
