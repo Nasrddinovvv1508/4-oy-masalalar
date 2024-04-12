@@ -86,3 +86,8 @@
 // }
 
 // console.log(reverseArr([1,2,3,4,5]));
+
+
+        // 9-MASALA
+// let arr = [2, 11, 4, 3];
+// console.log(arr.sort((a, b) => a - b));
