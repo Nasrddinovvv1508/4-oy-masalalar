@@ -97,3 +97,22 @@
 // let arr = [1, -1, -2, -3, 4, 10]
 // let newArr = arr.filter(item => item > 0)
 // console.log(newArr);
+
+
+        // 11-MASALA
+// let str = `Hello   World          hello`
+// let str = `salom`
+
+// function removeSpace() {
+//     let newArr = []
+//     let arr = Array.from(str)
+//     for (let i = 0; i < arr.length; i++) {
+//         if (arr[i] == ' ') {
+//             continue;
+//         }
+//         newArr.push(arr[i]);
+//     }
+//     console.log(newArr.join(''));
+// }
+
+// removeSpace()
