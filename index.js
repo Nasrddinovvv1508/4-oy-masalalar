@@ -280,3 +280,13 @@
 // }
 
 // reverseArr()
+
+
+
+        // DOM
+    // Modify the style
+// function clickBtn () {
+//     const p = document.getElementById(`text`)
+
+//     p.classList.add('text-danger')
+// }
