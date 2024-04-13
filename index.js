@@ -329,15 +329,15 @@
 
 
         // Display random number
-function randomNumber() {
-    let span = document.getElementById('span');
-    let ramdomN = Math.round(Math.random() * 1000);
+// function randomNumber() {
+//     let span = document.getElementById('span');
+//     let ramdomN = Math.round(Math.random() * 1000);
 
-    if (ramdomN % 2 == 0) {
-        span.innerHTML = ramdomN
-        span.style.color = `red`;
-    } else {
-        span.innerHTML = ramdomN
-        span.style.color = `blue`;
-    }
-}
+//     if (ramdomN % 2 == 0) {
+//         span.innerHTML = ramdomN
+//         span.style.color = `red`;
+//     } else {
+//         span.innerHTML = ramdomN
+//         span.style.color = `blue`;
+//     }
+// }
