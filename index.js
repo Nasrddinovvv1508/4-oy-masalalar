@@ -311,4 +311,17 @@
 // })
 
 
-        
+        // Calculator
+// const fsArg = document.getElementById('fs-arg');
+// const secArg = document.getElementById('sec-arg');
+// const calcBtn = document.getElementById('calc-btn');
+// const span = document.getElementById('span');
+// const calculator = document.getElementById('calculator');
+
+// calcBtn.addEventListener('click', function (e) {
+//     e.preventDefault();
+
+//     let res = Number(fsArg.value) + Number(secArg.value);
+//     span.innerHTML = res;
+//     calculator.reset()
+// })
