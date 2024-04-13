@@ -266,17 +266,17 @@
 
 
         // 25-MASALA
-let arr = [1, 2, 3, 4, 5];
+// let arr = [1, 2, 3, 4, 5];
 
-function reverseArr() {
-    let last = arr.length - 1;
-    let reversedArr = [];
+// function reverseArr() {
+//     let last = arr.length - 1;
+//     let reversedArr = [];
 
-    for (last; last >= 0; last--) {
-        reversedArr.push(arr[last])
-    }
+//     for (last; last >= 0; last--) {
+//         reversedArr.push(arr[last])
+//     }
 
-    console.log(reversedArr);
-}
+//     console.log(reversedArr);
+// }
 
-reverseArr()
+// reverseArr()
