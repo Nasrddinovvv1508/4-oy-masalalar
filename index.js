@@ -290,3 +290,25 @@
 
 //     p.classList.add('text-danger')
 // }
+
+
+    // Get input values
+// const name = document.getElementById('name');
+// const Iname = document.getElementById('Iname');
+// const button = document.getElementById('button');
+// const form = document.getElementById('form');
+
+// button.addEventListener('click', function (e) {
+//     e.preventDefault();
+
+//     let user = {}
+
+//     user.name = name.value;
+//     user.Iname = Iname.value;
+
+//     console.log(user);
+//     form.reset()
+// })
+
+
+        
